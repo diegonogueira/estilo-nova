@@ -4,14 +4,14 @@
 " URL: https://github.com/trevordmiller/nova-iterm
 " Author: Alan Jackson
 " License: MIT
-" Last Change: 2016/09/28 15:26
+" Last Change: 2016/09/28 15:32
 " ============================================================
 
 let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {} }
 
 let s:p.normal.left = [[["#1e272c", 235], ["#83afe5", 110]], [["#c5d4dd", 188], ["#556873", 242]]]
-let s:p.normal.middle = [[["#6a7d89", 66], ["#3c4c55", 239]]]
-let s:p.normal.right = [[["#c5d4dd", 188], ["#556873", 242]], [["#1e272c", 235], ["#6a7d89", 66]]]
+let s:p.normal.middle = [[["#6a7d89", 66], ["#1e272c", 235]]]
+let s:p.normal.right = [[["#1e272c", 235], ["#6a7d89", 66]], [["#c5d4dd", 188], ["#556873", 242]]]
 let s:p.normal.error = [[["#1e272c", 235], ["#df8c8c", 174]]]
 let s:p.normal.warning = [[["#1e272c", 235], ["#dada93", 186]]]
 
