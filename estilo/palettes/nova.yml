@@ -1,0 +1,22 @@
+# normal
+black: '#3c4c55'
+red: '#df8c8c'
+green: '#a8ce93'
+yellow: '#dada93'
+blue: '#83afe5'
+magenta: '#9a93e1'
+cyan: '#7fc1ca'
+white: '#c5d4dd'
+
+# bright
+b_black: '#899ba6'
+b_red: '#f2c38f'
+b_magenta: '#d18ec2'
+b_white: '#e6eef3'
+
+# decoration
+dark: '#1e272c'
+medium: '#556873'
+light: '#6a7d89'
+
+bg: '#899ba6'

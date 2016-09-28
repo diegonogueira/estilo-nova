@@ -1,0 +1,14 @@
+name: 'nova'
+version: '1.0.0'
+license: 'MIT'
+author: 'Alan Jackson'
+url: 'https://github.com/trevordmiller/nova-iterm'
+description: 'A Lightline Theme based on Nova'
+colorschemes:
+  - name: nova
+    background: 'dark'
+    palette: nova
+lightline:
+  - name: 'nova'
+    palette: 'nova'
+    style: 'nova'
