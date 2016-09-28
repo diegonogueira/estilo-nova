@@ -4,7 +4,7 @@
 " URL: https://github.com/trevordmiller/nova-iterm
 " Author: Alan Jackson
 " License: MIT
-" Last Change: 2016/09/28 15:32
+" Last Change: 2016/09/28 16:33
 " ===============================================================
 
 let g:colors_name="nova"
